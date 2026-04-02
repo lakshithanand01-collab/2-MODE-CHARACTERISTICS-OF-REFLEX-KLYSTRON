@@ -47,11 +47,17 @@ Change the repeller voltage and read the power and frequency for each repeller v
 
 # Observation: ( Include your own Table relevant to the Experiment) (Paste your Tabulation)
 
+<img width="1062" height="678" alt="Screenshot 2026-04-02 072132" src="https://github.com/user-attachments/assets/ec24b67c-b92b-4d7e-8d27-18a8c0eda5b1" />
+
+<img width="772" height="960" alt="Screenshot 2026-04-02 072232" src="https://github.com/user-attachments/assets/15a5a5c6-45b4-4181-83f3-541c991415ee" />
+
+
 CALCULATIONS:
 
 Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
 By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾ with V2 = N2 = (n +1) + ¾ with V1 = N1 & N2 are respective modes numbers.
 ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+
 Precautions:
 
 Check the connections before switching on the kit.
@@ -74,4 +80,6 @@ If the main supply failed in the middle of the experiment, come to 1st condition
 
 Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-Result:
+# Result:
+
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.
